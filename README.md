@@ -1,6 +1,6 @@
 ![Masterhead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 <h1 align="center">Hi 👋, I'm sajith kavishan</h1>
-<h3 align="center">A passionate Developer & Graphic Designer</h3>
+<h3 align="center">A passionate Developer & Graphic Designer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithkavishan&label=Profile%20views&color=0e75b6&style=flat" alt="sajithkavishan" /> </p>
