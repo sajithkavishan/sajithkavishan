@@ -1,9 +1,11 @@
+![Masterhead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hi 👋, I'm sajith kavishan</h1>
 <h3 align="center">A passionate Developer & Graphic Designer</h3>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithkavishan&label=Profile%20views&color=0e75b6&style=flat" alt="sajithkavishan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sajithkavi39848" target="blank"><img src="https://img.shields.io/twitter/follow/sajithkavi39848?logo=twitter&style=for-the-badge" alt="sajithkavi39848" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kavishansajith" target="blank"><img src="https://img.shields.io/twitter/follow/kavishansajith?logo=twitter&style=for-the-badge" alt="kavishansajith" /></a> </p>
 
 - 🌱 I’m currently learning **C++, C**
 
@@ -13,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sajithkavi39848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajithkavi39848" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajith kavishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajith kavishan" height="30" width="40" /></a>
+<a href="https://twitter.com/kavishansajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavishansajith" height="30" width="40" /></a>
 <a href="https://fb.com/sajith kavishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajith kavishan" height="30" width="40" /></a>
 <a href="https://instagram.com/sajith_kavishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajith_kavishan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sajithkavishan8577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sajithkavishan8577" height="30" width="40" /></a>
