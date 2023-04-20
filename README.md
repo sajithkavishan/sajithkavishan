@@ -1,4 +1,4 @@
-![Masterhead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
+![Masterhead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 <h1 align="center">Hi 👋, I'm sajith kavishan</h1>
 <h3 align="center">A passionate Developer & Graphic Designer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"
